@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManojiLogaraj
 - 👀 I’m interested in Cyber security / Temenos T24.
-- 🌱 I’m currently learning CEH.
+- 🌱 I’m currently learning ejpt.
 - 💞️ I’m looking to collaborate on begineer cyber security project's.
 - 📫 How to reach me...Twitter >>> https://twitter.com/Manoji_RL
 
